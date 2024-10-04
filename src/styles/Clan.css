@@ -1,0 +1,30 @@
+.clans-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .clan-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    width: 200px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .clan-card h3 {
+    font-size: 1.2rem;
+    margin-bottom: 8px;
+  }
+  
+  .clan-card p {
+    font-size: 0.9rem;
+    margin: 8px 0;
+  }
+  
+  .clan-members {
+    font-size: 0.9rem;
+    color: #555;
+  }
+  
